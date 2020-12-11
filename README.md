@@ -53,8 +53,8 @@
   - Click on **Finish**.
   - After completion, you will see the status as **Success**. Click on **Overview** in the left pane. The result is a web URL created with the Azure domain.
   
-  ![alt text](https://github.com/Gunjan1917/ML_cloud/blob/master/azure_deploy_succcess.PNG)
-  ![alt text](https://github.com/Gunjan1917/ML_cloud/blob/master/azure_deployment.PNG)
+  ![alt text](https://github.com/Gunjan1917/ML_cloud/blob/main/azure_deploy_succcess.PNG)
+  ![alt text](https://github.com/Gunjan1917/ML_cloud/blob/main/azure_deployment.PNG)
 
 
   
